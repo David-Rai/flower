@@ -159,7 +159,7 @@ background: linear-gradient(90deg, rgba(82,144,12,1) 57%, rgba(249,249,249,1) 10
 
 @media (max-width:600px) {
 .flower{
-    width: 40%;
+    width: 50%;
 }    
 .f1:nth-of-type(3){
     width: 60%;
